@@ -1,4 +1,4 @@
-# 🚀 SmartScheduler-DAA
+SmartScheduler-DAA
 
 ### *UTS Desain dan Analisis Algoritma 2025/2026*
 
