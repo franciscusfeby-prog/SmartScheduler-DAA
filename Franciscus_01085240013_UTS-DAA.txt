@@ -1,15 +1,1 @@
-Franciscus_01085240013_UTS-DAA.txt
-
-Link GitHub Repository:
 https://github.com/franciscusfeby-prog/SmartScheduler-DAA
-
-Keterangan:
-Repository ini berisi hasil pengerjaan UTS Desain dan Analisis Algoritma 2025/2026.
-Struktur folder:
-- README.md
-- report/SmartScheduler_Report.docx
-- src/main.cpp
-
-
-Nama: Franciscus Feby Etdolo
-NIM: 01085240013
