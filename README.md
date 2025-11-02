@@ -180,7 +180,7 @@ g++ main.cpp -o SmartScheduler
 
 ---
 
-## 🧾 Contoh Input & Output
+##  Contoh Input & Output
 
 **Input:**
 
