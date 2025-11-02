@@ -1,6 +1,6 @@
 SmartScheduler-DAA
 
-### *UTS Desain dan Analisis Algoritma 2025/2026*
+### **UTS Desain dan Analisis Algoritma 2025/2026**
 
 **Nama:** Franciscus Feby Etdolo  
 **NIM:** 01085240013    
