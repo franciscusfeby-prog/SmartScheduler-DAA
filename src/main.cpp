@@ -49,4 +49,4 @@ int main() {
     cout << "\nTotal Completion Time: " << total_completion << endl;
     cout << "Jobs selesai tepat waktu: " << on_time << " dari " << n << endl;
     return 0;
-}
+} 
