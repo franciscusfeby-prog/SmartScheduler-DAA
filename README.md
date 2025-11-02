@@ -4,7 +4,6 @@ SmartScheduler-DAA
 
 **Nama:** Franciscus Feby Etdolo  
 **NIM:** 01085240013    
-**Dosen Pengampu:** Robertus Hudi, S.Inf., M.Kom.
 
 ---
 
