@@ -224,5 +224,4 @@ Solusi ini seimbang antara optimalitas dan efisiensi — sesuai kebutuhan dunia 
 
 * **Nama:** Franciscus Feby Etdolo  
 * **NIM:** 01085240013  
-* **Kelas:** Informatika – Semester 1  
 * **Universitas:** Universitas Pelita Harapan (UPH)
