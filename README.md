@@ -7,7 +7,7 @@ SmartScheduler-DAA
 
 ---
 
-## 📖 Deskripsi Proyek
+##  Deskripsi Proyek
 
 **SmartScheduler** adalah mini-proyek Ujian Tengah Semester untuk mata kuliah **Desain dan Analisis Algoritma (DAA)**.  
 Proyek ini bertujuan untuk membuat sistem penjadwalan (*scheduling*) yang efisien di lingkungan *cloud computing*, di mana setiap **pekerjaan (job)** memiliki waktu proses dan deadline berbeda.
@@ -26,7 +26,7 @@ Algoritma yang digunakan harus mampu:
 
 ---
 
-## ⚙️ Tujuan Proyek
+##  Tujuan Proyek
 
 * Menentukan urutan eksekusi *job* yang paling efisien.  
 * Menjaga agar sistem tetap optimal meskipun beban tinggi.  
@@ -35,7 +35,7 @@ Algoritma yang digunakan harus mampu:
 
 ---
 
-## 🧠 Algoritma yang Digunakan — *Earliest Deadline First (EDF)*
+##  Algoritma yang Digunakan — *Earliest Deadline First (EDF)*
 
 **Pendekatan:** *Greedy Algorithm*
 
@@ -52,7 +52,7 @@ Job yang memiliki **deadline paling awal** akan dikerjakan terlebih dahulu.
 
 ---
 
-## 🧩 Contoh Kasus
+##  Contoh Kasus
 
 | Job | Processing Time | Deadline |
 | --- | --------------- | -------- |
@@ -70,7 +70,7 @@ Semua job selesai sebelum deadline ✅
 
 ---
 
-## 💻 Implementasi Program
+##  Implementasi Program
 
 File utama: `src/main.cpp`
 
@@ -131,7 +131,7 @@ int main() {
 
 ---
 
-## 📈 Analisis Kompleksitas
+##  Analisis Kompleksitas
 
 | Langkah                   | Deskripsi                        | Kompleksitas          |
 | ------------------------- | -------------------------------- | --------------------- |
@@ -143,7 +143,7 @@ int main() {
 
 ---
 
-## 🗂️ Struktur Repositori
+##  Struktur Repositori
 
 ```
 SmartScheduler-DAA/
@@ -158,9 +158,9 @@ SmartScheduler-DAA/
 
 ---
 
-## 🧰 Cara Menjalankan Program
+##  Cara Menjalankan Program
 
-### 🔹 Menggunakan Terminal / CMD
+###  Menggunakan Terminal / CMD
 
 1. Pastikan kamu sudah menginstall **g++** (C++ Compiler).  
 2. Buka terminal di folder `src`.  
@@ -211,7 +211,7 @@ Jobs selesai tepat waktu: 3 dari 3
 
 ---
 
-## 🎯 Kesimpulan
+##  Kesimpulan
 
 Algoritma **Earliest Deadline First (EDF)** terbukti memberikan hasil cepat dan efisien untuk penjadwalan berbasis waktu.  
 Dengan kompleksitas **O(n log n)**, algoritma ini dapat digunakan di berbagai sistem seperti cloud computing, CPU scheduling, dan task management.  
@@ -219,7 +219,7 @@ Solusi ini seimbang antara optimalitas dan efisiensi — sesuai kebutuhan dunia 
 
 ---
 
-## 👤 Identitas
+##  Identitas
 
 * **Nama:** Franciscus Feby Etdolo  
 * **NIM:** 01085240013  
