@@ -28,7 +28,6 @@ SmartScheduler-DAA/
 │   └── SmartScheduler_Report.docx
 ├── src/
 │   └── main.cpp
-└── data/   (opsional)
 ```
 
 ## Identitas
