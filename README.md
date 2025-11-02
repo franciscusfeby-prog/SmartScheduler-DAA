@@ -149,7 +149,6 @@ int main() {
 SmartScheduler-DAA/
 │
 ├── README.md
-├── Franciscus_01085240013_UTS-DAA.txt
 ├── report/
 │   └── SmartScheduler_Report.docx
 └── src/
